@@ -8,10 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Dette er patricks side</title>
+    <title>Velkommen til Patrick</title>
 </head>
 <body>
-<h1>Velkommen til patricks side :))</h1>
+    <h1>Hej med dig!</h1>
 
 </body>
 </html>
+

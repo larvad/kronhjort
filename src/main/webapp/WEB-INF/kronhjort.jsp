@@ -25,4 +25,10 @@
         <input type="hidden" name="command" value="timi"/>
         <input type="submit"  value="Til timi"/>
     </form>
+
+    <form action="fc/timi" method="post">
+        <input type="hidden" name="command" value="patrick"/>
+        <input type="submit"  value="Patricks knap"/>
+    </form>
+
 </div>

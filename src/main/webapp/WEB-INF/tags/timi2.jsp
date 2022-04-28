@@ -12,7 +12,7 @@
 </head>
 <body>
 
-
+Du er landet på Timi2 side :)
 
 </body>
 </html>

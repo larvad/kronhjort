@@ -6,6 +6,7 @@
 
     <jsp:body>
 
+        <div class="page">
             <h1>
                 Vælg en knap
             </h1>
@@ -24,6 +25,7 @@
                     <input type="submit"  value="Til timi"/>
                 </form>
             </div>
+        </div>
 
 
     </jsp:body>

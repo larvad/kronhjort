@@ -30,4 +30,8 @@
         <input type="hidden" name="command" value="timi2"/>
         <input type="submit"  value="Til timi2"/>
     </form>
+    <form action="fc/marcus" method="post">
+        <input type="hidden" name="command" value="marcus"/>
+        <input type="submit"  value="Til marcus"/>
+    </form>
 </div>

@@ -20,6 +20,7 @@ abstract class Command
         commands.put("otto", new Otto());
         commands.put("marc", new Marc());
         commands.put("timi", new Timi());
+        commands.put("marcus", new Marcus());
 
     }
 

@@ -7,19 +7,19 @@
     <jsp:body>
 
             <h1>
-                Klokken er nu ${requestScope.tid}, så vi skal snart have frokost
+                Vælg en knap
             </h1>
 
             <div class="forms">
-                <form action="fc/otto" method="post">
+                <form action="fc/otto" method="post" class="button">
                     <input type="hidden" name="command" value="otto"/>
                     <input type="submit"  value="Til otto"/>
                 </form>
-                <form action="fc/marc" method="post">
+                <form action="fc/marc" method="post" class="button2">
                     <input type="hidden" name="command" value="marc"/>
                     <input type="submit"  value="Til marc"/>
                 </form>
-                <form action="fc/timi" method="post">
+                <form action="fc/timi" method="post" class="button3">
                     <input type="hidden" name="command" value="timi"/>
                     <input type="submit"  value="Til timi"/>
                 </form>
